@@ -24,7 +24,7 @@
       "name": "Change Name",
       "description": "Changes your name to what you type into the text box.",
       "type": "string",
-      "default": "You!"
+      "default": "Mulpan"
     }
   },
   "dependencies": [
